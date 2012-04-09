@@ -1,0 +1,12 @@
+#summary Frequently Asked Questions
+#labels Featured
+
+= Droid Notify Plus - Frequently Asked Questions =
+
+ * [FAQ#After_Droid_Notify_Plus_updates,_the_app_stops_working._Why? After Droid Notify Plus updates, the app stops working. Why?]
+
+----
+
+==After Droid Notify Plus updates, the app stops working. Why?==
+
+There is a bug in all versions of Android prior to Android 4.0 which stops the accessibility services from running after an update. Either disable and then re-enable the accessibility service in the phones settings or restarts your phone to restart the service/app.
