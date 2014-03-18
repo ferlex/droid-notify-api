@@ -1,8 +1,0 @@
-#summary Frequently Asked Questions
-#labels Featured
-
-= Droid Notify API - Frequently Asked Questions =
-
-
-
-----
